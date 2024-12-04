@@ -1,7 +1,4 @@
-# location-state
-
-[![npm version](https://badge.fury.io/js/@location-state%2Fcore.svg)](https://badge.fury.io/js/@location-state%2Fcore)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# location-manage
 
 State management library for React that synchronizes with history location supporting Next.js App Router.
 
@@ -9,14 +6,6 @@ State management library for React that synchronizes with history location suppo
 
 - Manage the state to synchronize with the history location.
 - By default, supports Session Storage and URL as persistent destinations.
-
-## Packages
-
-- [@location-state/core](./packages/location-state-core/README.md): Framework agnostic, but for Next.js App Router.
-- [@location-state/next](./packages/location-state-next/README.md): For Next.js Pages Router.
-- [@location-state/conform](./packages/location-state-conform/README.md): For conform.
-
-## Quickstart for Next.js [App Router](https://nextjs.org/docs/app)
 
 ### Installation
 
